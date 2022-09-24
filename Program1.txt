@@ -2,7 +2,12 @@ class A
 {
 public static void main(String[] args)
 {
-System.out.println("hii hlo");
+<<<<<<< HEAD
+System.out.println("hii world");
+=======
+System.out.println("hii");
+System.out.println("world");
+>>>>>>> 6cba945db9db3403235a511e174a47f12fe15040
 
 }
 }
